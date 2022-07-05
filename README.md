@@ -16,5 +16,5 @@ Demo of the application.
 
 ## Authors
 
-- Ahmad Nurul Furqon/19.0504.0009
-- [Ahmad Nurul Furqon](https://www.instagram.com/nurulfurqon18/) (Instagram) 
+- Nalendra  Bagas Adinugroho/19.0504.0013
+- [nalendra_bagas015](https://www.instagram.com/nalendra_bagas015/) (Instagram) 
