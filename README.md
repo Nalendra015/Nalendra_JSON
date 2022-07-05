@@ -8,7 +8,7 @@ This repository contains the source code of TOKO ELEKTRONIK, an example of getti
 Demo of the application.
 
 
-![Logo](https://raw.githubusercontent.com/nurulfurqon18/flutter_dummyjson/main/1.jpg)
+![Logo](https://github.com/Nalendra015/Nalendra_JSON/blob/main/hal_depan.JPG)
 
 ![Logo](https://raw.githubusercontent.com/nurulfurqon18/flutter_dummyjson/main/2.jpg)
 
